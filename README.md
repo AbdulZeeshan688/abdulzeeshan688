@@ -1,4 +1,9 @@
-## Hi there 👋
+#Hi there 
+My name is Abdul Zeeshan Mirza 
+I am a student at lab university of applied sciences .
+My course is industrial information technology.
+I am currently learning programming . 
+
 
 <!--
 **AbdulZeeshan688/abdulzeeshan688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
