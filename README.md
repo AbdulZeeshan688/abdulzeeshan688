@@ -1,11 +1,39 @@
-#Hi there 
-My name is Abdul Zeeshan Mirza 
-<br>  
-I am a student at lab university of applied sciences .
-<br>  
-My course is industrial information technology.
-<br>  
-I am currently learning programming . 
+# Hi there, I'm Abdul Zeeshan Mirza 👋
+
+
+
+I'm a student of **Industrial Information Technology**[cite: 33]. I'm passionate about technology and am currently focused on learning programming.
+
+My goal is to build a comprehensive understanding of automation systems and industrial control technologies. I'm a **fast learner**, **adaptable**, and enjoy working **both independently and as part of a team*.
+
+---
+
+## 🚀 What I'm Focusing On
+
+My studies and personal learning are currently centered around:
+
+* 🤖 **Automation Systems** & **Industrial Control Technologies** 
+* 💻 **PLC Programming**
+* 📈 **SCADA Systems** 
+* ⚙️ Principles of **Mechanics** and **Materials Science** 
+
+---
+
+## 🛠️ Skills & Experience
+
+While I'm building my technical skills in IT, I also have a strong background in practical, hands-on roles:
+
+* **Customer Service & Sales:** Gained experience providing excellent customer support.
+* **Technical Problem-Solving:** Assisted customers with technical issues.
+* **Responsibility:** Handled cash and digital payments and managed inventory.
+* **Languages:** Fluent in English and Urdu, and I'm also learning Finnish
+
+---
+
+## 📫 How to Reach Me
+
+You can get in touch with me via email:
+* 📧 **abdulzeeshanmirza2020@gmail.com** 
 
 
 <!--
