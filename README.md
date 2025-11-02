@@ -2,7 +2,7 @@
 
 
 
-I'm a student of **Industrial Information Technology**[cite: 33]. I'm passionate about technology and am currently focused on learning programming.
+I'm a student of **Industrial Information Technology*. I'm passionate about technology and am currently focused on learning programming.
 
 My goal is to build a comprehensive understanding of automation systems and industrial control technologies. I'm a **fast learner**, **adaptable**, and enjoy working **both independently and as part of a team*.
 
