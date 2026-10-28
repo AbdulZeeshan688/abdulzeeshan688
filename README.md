@@ -7,6 +7,8 @@ I mostly work with Python and JavaScript. I like building things people can actu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-zeeshan-mirza-56b253320/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdulzeeshanmirza2020@gmail.com)
 
+📧 abdulzeeshanmirza2020@gmail.com
+
 ## Projects
 
 ### [Green Transition Dashboard](https://github.com/AbdulZeeshan688/Green-Transition-dashboard)
